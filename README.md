@@ -31,8 +31,8 @@ y se trabajó con la fuente correcta.
 - Los vinos Súper Premium concentran la mayor facturación ($27.428.757)
 
 ## Vista previa del dashboard
-![Análisis General](Analisis_General.png)
+![Análisis General](Analisis General.png)
 
-![Raíces y Rutas](Raices_y_Rutas.png)
+![Raíces y Rutas](Raices y Rutas.png)
 
 ![Detección de Errores](Errores.png)
