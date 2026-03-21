@@ -8,7 +8,7 @@ Trabajo Final del curso Data Analytics — CoderHouse.
 ## Herramientas utilizadas
 - Power BI
 - Dataset provisto por la docente del curso
-- SQL (modelado de base de datos relacional)
+- MS SQL (modelado de base de datos relacional)
 
 ## Páginas del dashboard
 - **Análisis General** — KPIs principales, facturación por mes y canal de distribución
